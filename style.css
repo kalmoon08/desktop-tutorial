@@ -1,0 +1,48 @@
+h1 {
+				 font-family: "Crimson Text", "Verdana", "Arial", sans-serif;
+			 text-align: center;
+			 color: #dc143c }
+h3 {
+				 font-weight: bold;
+				 font-size: 56px;
+				 text-decoration: underline;
+	border: solid maroon;
+			 }
+blockquote {
+ margin-left: 52px; 
+ margin-right: 52px;
+ margin-top: 10px;   
+ margin-bottom: 25px; 
+	padding: 32px;
+	background-color: rgba(102,225,102,0.6);
+}
+
+h1 {
+    margin:10px;
+    padding:20px; 
+    background-color: black;
+    border-radius: 10px;
+}
+h1 {
+	display: flex;
+	flex: 2 4 50vh;
+}
+
+img {
+	margin-left: 5rem;
+	border: solid grey;
+	border-radius: 5px;	
+}
+iframe {
+  border: 10px solid crimson;
+  padding: .5rem;
+  margin: 1rem;
+  box-shadow: 20px 20px 10px #888888;
+  width: 355;
+  height: 200;
+}
+p.se {
+	overflow: auto;
+	height: 300px;
+	width: 250px;
+}
